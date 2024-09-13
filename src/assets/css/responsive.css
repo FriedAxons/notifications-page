@@ -4,11 +4,39 @@
     padding: 0;
   }
 
+  .notifications-count-container {
+    min-width: 100%;
+    padding: 15px 0 0;
+  }
+
+  .notifications-count-section h1 {
+    font-size: 21px;
+    margin-left: 5px;
+  }
+
   .notification-posts {
     min-width: 100%;
+    padding: 0 15px 0 35px;
+  }
+
+  .text-container {
+    width: 100%;
+  }
+
+  .text-container p {
+  font-size: 15.6px;
+    width: 96%;
+  }
+
+  .text-container .message {
+    width: 79%;
   }
 
   .post .image-text img {
     width: 40px;
+  }
+
+  .post .image-text .repliedToImage {
+    margin-right: 20px;
   }
 }

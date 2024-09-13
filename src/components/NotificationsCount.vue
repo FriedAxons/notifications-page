@@ -53,4 +53,8 @@ h1 {
   border-radius: 7px;
   margin-left: 10px;
 }
+
+.notifications-count-container p {
+  color: var(--neutral-dark-grayish-blue);
+}
 </style>
