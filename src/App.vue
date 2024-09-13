@@ -5,5 +5,3 @@ import NotificationPosts from "./components/NotificationPosts.vue";
 <template>
   <NotificationPosts />
 </template>
-
-<style></style>

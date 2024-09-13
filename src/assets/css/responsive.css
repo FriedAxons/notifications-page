@@ -1,0 +1,14 @@
+/* Media query for screens up to 375px width */
+@media screen and (max-width: 375px) {
+  #app {
+    padding: 0;
+  }
+
+  .notification-posts {
+    min-width: 100%;
+  }
+
+  .post .image-text img {
+    width: 40px;
+  }
+}
