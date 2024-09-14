@@ -125,6 +125,7 @@ const markAllAsRead = () => {
 .notification-posts {
   width: 35%;
   box-shadow: 0px 4px 20px hsla(219, 14%, 63%, 0.2);
+  padding: 0 15px;
 }
 
 .post {
