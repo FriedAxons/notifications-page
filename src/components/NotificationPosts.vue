@@ -42,7 +42,7 @@ const notifications = ref([
     action: "commented on your picture",
     time: "1 week ago",
     unread: false,
-    reactedToImage: "/public/images/avatar-image-chess.webp",
+    reactedToImage: "images/avatar-image-chess.webp",
   },
   {
     id: 6,
