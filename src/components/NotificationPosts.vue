@@ -89,7 +89,7 @@ const markAllAsRead = () => {
       <div class="image-text">
         <img
           :src="
-            '/images/avatar-' +
+            '/notifications-page/images/avatar-' +
             notification.name.toLowerCase().replace(' ', '-') +
             '.webp'
           "
